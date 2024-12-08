@@ -2,4 +2,6 @@ TripleTen Sprint 7 Project -Zomato Customer Analysis Project
 
 This was the 4rd project I worked on in the TripleTen BIA program.
 
-Description: Conducted in-depth analysis of Zomato’s customer base, identifying key segments and behaviors to inform marketing and operational strategies.
+Description:The project task was to analyze Zomato's Customers ,their segments and their behavior.The dataset of Zomato  was provided by TripleTen.Data was downloaded I first explored the dataset ,cleaned by importing in tableau by using calculated field.
+
+
