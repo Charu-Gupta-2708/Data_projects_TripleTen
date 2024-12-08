@@ -1,4 +1,4 @@
-TripleTen Sprint 2 Project - Airbnb Data Analysis Project
+TripleTen Sprint 1 Project - Airbnb Data Analysis Project
 
 This was the 2nd project I worked on in the TripleTen BIA program. This project was the most independent project I've worked on so far, and I loved it.
 
