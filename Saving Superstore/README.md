@@ -2,9 +2,9 @@ TripleTen Sprint 4 Project -Saving Superstore  Project
 
 This was the 4rd project I worked on in the TripleTen BIA program.
 
-Description: The project task was to review the Superstore’s operations and increase its profitability to avoid bankruptcy.The dataset of Superstore was provided by TripleTen.Data was downloaded I first explored the dataset ,cleaned by importing in tableau by using calculated field 
+🔗Description: The project task was to review the Superstore’s operations and increase its profitability to avoid bankruptcy.The dataset of Superstore was provided by TripleTen.Data was downloaded I first explored the dataset ,cleaned by importing in tableau by using calculated field 
 
-Objectives:
+🔗Objectives:
 
 1.To identify the important centers of profit and loss for the superstore any two pairs of dimensions.
 
@@ -12,7 +12,7 @@ Objectives:
 
 3.Which products have the highest return rate and which customers have the highest return rate?
 
-Conclusion and Analysis:
+🔗Conclusion and Analysis:
 
  Profits/Losses  Among pairs of dimensions (subcategory + region)
 
@@ -45,7 +45,7 @@ Conclusion and Analysis:
 Ideas for further improvement: The Superstore should go away from states with negative profits and the highest return rates
  whereas the superstore should keep doing business from states with positive profits and the least return rates.
 
-Funtional Link
+🔗Funtional Link
 https://public.tableau.com/views/CharuGuptasTripleTenSprint4TableauProject/AverageProfitAverageReturnRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
