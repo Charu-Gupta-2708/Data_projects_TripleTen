@@ -9,11 +9,9 @@ Objectives:
 2. Prepare data for cohort analysis to track cohort metrices month by month.
 3. Calculate retention rate to find out the percentage of customers retained , the purchase data was aggregated into cohorts and then calculate retention rates for each cohort month by month.
 
- Conclusion with results:
+ Conclusion with results:There was a decrease in retention rate of customers from 1st month to 4 th month 
 
-
-
-
+Functional link
 
 
 
