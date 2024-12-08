@@ -17,9 +17,11 @@ Objectives: To find out the root causes of returned orders the following workshe
 
 6.Two different kinds of composite charts showing the return rate for a mix of multiple factors (date/geography/product category/etc.)
 
-Conclusion with Results:A dashboard was created by using all worksheets and a tableau story was  created using all worksheets as a base for story
-https://public.tableau.com/shared/7GRTNB3XM?:display_count=n&:origin=viz_share_link
-https://public.tableau.com/shared/DH8H76DC5?:display_count=n&:origin=viz_share_link
+Conclusion with Results:A dashboard was created by using all worksheets and a tableau story was  created using all worksheets as a base for story.On conclusion it was found that root causes of returns might be due to quality issues ,delivery issues etc. Actions like improving product quantity,delivery services,customer services should be focussed to reduced returns.
 
-https://public.tableau.com/shared/DH8H76DC5?:display_count=n&:origin=viz_share_link
+
+Functional link
+
+ https://public.tableau.com/shared/7GRTNB3XM?:display_count=n&:origin=viz_share_link
+
 
