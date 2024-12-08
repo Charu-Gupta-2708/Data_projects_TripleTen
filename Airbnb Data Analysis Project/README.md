@@ -1,6 +1,6 @@
 TripleTen Sprint 2 Project - Airbnb Data Analysis Project
 
-This is the 2nd project I worked on in the TripleTen BIA program. This project was the most independent project I've worked on so far, and I loved it.
+This was the 2nd project I worked on in the TripleTen BIA program. This project was the most independent project I've worked on so far, and I loved it.
 
 
  🔗 Description: To analyse the Manhattan vacation rental market to help the client on which property types to invest in for which NYC Airbnb Data was provided by TripleTen.Data was downloaded I first explored the dataset ,cleaned it and analyse it by using advanced functions ,visualizations,and pivot table.
