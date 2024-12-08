@@ -2,9 +2,9 @@ TripleTen Sprint 5 Project -Story Telling Superstore Project
 
 This was the 5th project I worked on in the TripleTen BIA program.
 
-Description:To understand what is causing customers to return their orders and how to reduce the volume of returned orders.The dataset of Superstore was provided by TripleTen.Data was downloaded and cleaned by importing in tableau using calculated field  and orders and returned  tables were joined using the left join.
+🔗Description:To understand what is causing customers to return their orders and how to reduce the volume of returned orders.The dataset of Superstore was provided by TripleTen.Data was downloaded and cleaned by importing in tableau using calculated field  and orders and returned  tables were joined using the left join.
 
-Objectives: To find out the root causes of returned orders the following worksheets were made
+🔗Objectives: To find out the root causes of returned orders the following worksheets were made
 1.A scatterplot showing the correlation between total sales and total returns to find if sales always correlate positively with returns?
 
 2.A bar chart showing the return rate by product category.
@@ -17,10 +17,10 @@ Objectives: To find out the root causes of returned orders the following workshe
 
 6.Two different kinds of composite charts showing the return rate for a mix of multiple factors (date/geography/product category/etc.)
 
-Conclusion with Results:A dashboard was created by using all worksheets and a tableau story was  created using all worksheets as a base for story.On conclusion it was found that root causes of returns might be due to quality issues ,delivery issues etc. Actions like improving product quantity,delivery services,customer services should be focussed to reduced returns.
+🔗Conclusion with Results:A dashboard was created by using all worksheets and a tableau story was  created using all worksheets as a base for story.On conclusion it was found that root causes of returns might be due to quality issues ,delivery issues etc. Actions like improving product quantity,delivery services,customer services should be focussed to reduced returns.
 
 
-Functional link
+🔗Functional link
 
  https://public.tableau.com/shared/7GRTNB3XM?:display_count=n&:origin=viz_share_link
 
