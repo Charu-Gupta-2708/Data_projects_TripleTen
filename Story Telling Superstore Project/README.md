@@ -17,6 +17,9 @@ Objectives: To find out the root causes of returned orders the following workshe
 
 6.Two different kinds of composite charts showing the return rate for a mix of multiple factors (date/geography/product category/etc.)
 
-Conclusion with results
+Conclusion with Results:A dashboard was created by using all worksheets and a tableau story was  created using all worksheets as a base for story
+
+https://public.tableau.com/shared/DH8H76DC5?:display_count=n&:origin=viz_share_link
+
 
 
