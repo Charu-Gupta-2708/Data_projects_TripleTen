@@ -2,9 +2,9 @@ TripleTen Sprint 6 Project -Shopify App Analysis Project
 
 This was the 6th project I worked on in the TripleTen BIA program.
 
-Description: The project task was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites and to figure out what key factors play into the success of a Shopify app.
+🔗Description: The project task was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites and to figure out what key factors play into the success of a Shopify app.
 
-Objectives:
+🔗Objectives:
 1.Make a KPI Card (a visual with a single number) that counts the unique number of apps and add it to your App Landscape sheet.
 
 2.Make a Line Chart getting the sum of the review count on the Y-axis, and the lastmod date on the X-Axis.
@@ -21,7 +21,7 @@ Objectives:
 
 8.Make a bar chart with the developer from the apps table and the developer_answered column to find out the most responsive developer. Add a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
 
-Results:Attached screenshots are the results.
+🔗Results:Attached screenshots are the results.
 
 1.<img width="367" alt="image" src="https://github.com/user-attachments/assets/4f9bd097-faf3-4e97-8d4f-71dc49b70b95">
 
