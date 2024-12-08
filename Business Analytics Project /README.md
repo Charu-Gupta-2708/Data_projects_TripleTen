@@ -1,6 +1,6 @@
 TripleTen Sprint 3 Project -Business Analytics Project
 
-This is the 3rd project I worked on in the TripleTen BIA program.
+This was the 3rd project I worked on in the TripleTen BIA program.
 
 Description: To analyze the raw transaction logs and convert into useful business metrices of an e-commerce company  for which business analytic dataset was provided by Tripleten. Data was downloaded I first explored the dataset ,cleaned it and analyse it by using advanced functions ,visualizations,and pivot table.
 
