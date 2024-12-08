@@ -6,4 +6,12 @@ Description: The project task was to review the Superstore’s operations and in
 
 Objectives:
 
+1.To identify the important centers of profit and loss for the superstore.
 
+2.To identify the 3 best combinations of states and month of the year to advertise in and budget for each.
+
+3.Which products have the highest return rate and which customers have the highest return rate?
+
+
+
+ 
