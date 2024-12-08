@@ -33,8 +33,8 @@ Conclusion and Analysis:Part 1:
  Indiana November: [ \text{Ad Budget} = \frac{643.1}{5} = 128.62 ]
  Vermont November: [ \text{Ad Budget} = \frac{596.0}{5} = 119.20 ]
 
- 3.The products on the too of bar chart have highest return rates and the customers on the top of bar chart have highest return rates.
- 
+ 3.The products on the too of bar chart have highest return rates and the customers on the top of bar chart have highest return rates.<img width="908" alt="image" src="https://github.com/user-attachments/assets/210c14db-4b9b-4311-b764-1495ea74e043">
+
  
  Analysis:
  The Superstore should go away from states with negative profits and the highest return rates.
