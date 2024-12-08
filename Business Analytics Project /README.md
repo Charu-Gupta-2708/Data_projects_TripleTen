@@ -1,1 +1,3 @@
-This is the nd project I worked on in the TripleTen BIA program. This project was the most independent project I've worked on so far, and I loved it.
+TripleTen Sprint 3 Project -Business Analytics Project
+
+This is the 3rd project I worked on in the TripleTen BIA program.
