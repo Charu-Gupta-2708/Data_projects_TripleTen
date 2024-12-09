@@ -4,7 +4,7 @@ This was the 7th project I worked on in the TripleTen BIA program.
 
 Description:The project task was to analyze Zomato's Customers ,their segments and their behavior.The dataset of Zomato  was provided by TripleTen.Data was downloaded from dataset and  was cleaned, segmented, and evaluated to identify key contributors to sales and areas for optimization. The focus remained on customer-centric strategies, ensuring recommendations aligned with their user needs and business goals.
 
-Objectives:
+🔗Objectives:
 
 1. Who are Zomato's customers?
  
@@ -12,7 +12,7 @@ Objectives:
  
 3. What is their purchsing behavior?
 
-Key Findings:
+🔗Key Findings:
 1. Demographically, most of Zomato's customers are students with no income.
 
 2. Customers aged 18-23 place the most orders.
@@ -25,7 +25,7 @@ Key Findings:
    
 6. Customer purchase behavior is influenced by seasonality, with a spike in purchase  during August .These insights suggest targeted engagement and retention strategies
    
-Recommendations:
+🔗Recommendations:
 
 1.Create tailored offerings for the 28-33 age group to meet Zomato’s goal to retain customers.
 
@@ -47,7 +47,7 @@ Recommendations:
 
 Conclusion:The Customer Analysis provides valuable insights into user behaviors, preferences, and trends, enabling data-driven strategies to enhance engagement and retention. By implementing targeted marketing and loyalty initiatives, Zomato can strengthen customer satisfaction and achieve business goals.
 
-Functional link:
+🔗Functional link:
 
 https://public.tableau.com/shared/GNRB97MFN?:display_count=n&:origin=viz_share_link
 
