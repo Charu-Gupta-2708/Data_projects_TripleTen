@@ -13,9 +13,9 @@ This was the 3rd project I worked on in the TripleTen BIA program.
 
 🔗Functional link
 
-[HERE]
 
 
 
 
-(https://docs.google.com/spreadsheets/d/11fP-KWEy8zPMrk04JtDVZGyQuSYcZ-Zh_8e1-YbSO2M/edit?usp=sharing)
+
+https://docs.google.com/spreadsheets/d/11fP-KWEy8zPMrk04JtDVZGyQuSYcZ-Zh_8e1-YbSO2M/edit?usp=sharing
