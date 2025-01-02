@@ -22,6 +22,6 @@ This was the 5th project I worked on in the TripleTen BIA program.
 
 🔗Functional link
 
- https://public.tableau.com/shared/7GRTNB3XM?:display_count=n&:origin=viz_share_link
+[HERE](https://public.tableau.com/shared/7GRTNB3XM?:display_count=n&:origin=viz_share_link)
 
 
