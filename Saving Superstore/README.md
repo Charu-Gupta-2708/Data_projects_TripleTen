@@ -46,10 +46,8 @@ Ideas for further improvement: The Superstore should go away from states with ne
  whereas the superstore should keep doing business from states with positive profits and the least return rates.
 
 🔗Funtional Link
-[HERE]
 
-
-(https://public.tableau.com/views/CharuGuptasTripleTenSprint4TableauProject/AverageProfitAverageReturnRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[HERE](https://public.tableau.com/views/CharuGuptasTripleTenSprint4TableauProject/AverageProfitAverageReturnRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
