@@ -1,9 +1,9 @@
 # TripleTen_projects
 During the Business Intelligence Analytics program, I successfully worked and completed 6 projects that involved real-world data analysis and actionable insights.
 
-| Project number | Title | Description | 
-| :-----------: | ----------- |----------- |
-| 1 |Airbnb Data Analysis Project | Examined Manhattan’s vacation rental market to evaluate property types for investment, based on data trends and financial potential.|
+| Project number | Title | Project Link | Description | 
+| :-----------: | ----------- |----------- |----------- |
+| 1 |Airbnb Data Analysis Project |[Airbnb Data Anlysis Project Link](https://docs.google.com/spreadsheets/d/1IirTIK3Byh-ecQVcH5Oxc8gOhtsRo7A4B_Cm5dac9ts/edit?usp=sharing) |Examined Manhattan’s vacation rental market to evaluate property types for investment, based on data trends and financial potential.|
 | 2 | Business Analytics Project | Processed and analyzed raw transaction logs of an e-commerce company to extract actionable insights and improve business operations. |
 | 3 | Saving Superstore Project | Reviewed operational inefficiencies and provided data-driven solutions to enhance profitability and prevent bankruptcy for a fictional superstore. |
 | 4 | Storytelling Superstore Project | Analyzed customer return data to identify root causes for order returns and proposed actionable strategies to reduce return rates. |
