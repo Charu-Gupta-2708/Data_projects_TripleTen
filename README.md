@@ -8,7 +8,7 @@ During the Business Intelligence Analytics program, I successfully worked and co
 | 3 | Saving Superstore Project |[Saving Superstore Project](https://public.tableau.com/views/CharuGuptasTripleTenSprint4TableauProject/SubcategoryRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)| Reviewed operational inefficiencies and provided data-driven solutions to enhance profitability and prevent bankruptcy for a fictional superstore. |
 | 4 | Storytelling Superstore Project |[Storytelling Superstore Project](https://public.tableau.com/shared/DC747P7PH?:display_count=n&:origin=viz_share_link)|Analyzed customer return data to identify root causes for order returns and proposed actionable strategies to reduce return rates. |
 | 5 | Shopify App Analysis Project |[Shopify App Analysis Project]( Explored the app ecosystem on the Shopify platform using web-scraped data to determine factors driving app success, providing recommendations for app development and marketing. |
-| 6 | Zomato Customer Analysis Project |[Zomato's Customer Trends Project](Conducted in-depth analysis of Zomato’s customer base, identifying key segments and behaviors to inform marketing and operational strategies. |
+| 6 | Zomato Customer Analysis Project |[Zomato's Customer Trends Project](https://public.tableau.com/shared/DTS2RM6SQ?:display_count=n&:origin=viz_share_link)|Conducted in-depth analysis of Zomato’s customer base, identifying key segments and behaviors to inform marketing and operational strategies. |
 
 
 
