@@ -4,7 +4,7 @@ During the Business Intelligence Analytics program, I successfully worked and co
 | Project number | Title | Project Link | Description | 
 | :-----------: | ----------- |----------- |----------- |
 | 1 |Airbnb Data Analysis Project |[Airbnb Data Anlysis Project Link](https://docs.google.com/spreadsheets/d/1IirTIK3Byh-ecQVcH5Oxc8gOhtsRo7A4B_Cm5dac9ts/edit?usp=sharing) |Examined Manhattan’s vacation rental market to evaluate property types for investment, based on data trends and financial potential.|
-| 2 | Business Analytics Project | Processed and analyzed raw transaction logs of an e-commerce company to extract actionable insights and improve business operations. |
+| 2 | Business Analytics Project |[Business Analytics Project Link](https://docs.google.com/spreadsheets/d/11fP-KWEy8zPMrk04JtDVZGyQuSYcZ-Zh_8e1-YbSO2M/edit?usp=sharing)| Processed and analyzed raw transaction logs of an e-commerce company to extract actionable insights and improve business operations. |
 | 3 | Saving Superstore Project | Reviewed operational inefficiencies and provided data-driven solutions to enhance profitability and prevent bankruptcy for a fictional superstore. |
 | 4 | Storytelling Superstore Project | Analyzed customer return data to identify root causes for order returns and proposed actionable strategies to reduce return rates. |
 | 5 | Shopify App Analysis Project | Explored the app ecosystem on the Shopify platform using web-scraped data to determine factors driving app success, providing recommendations for app development and marketing. |
