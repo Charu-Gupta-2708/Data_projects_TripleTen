@@ -14,5 +14,4 @@ During the Business Intelligence Analytics program, I successfully worked and co
 
 
 
-With my ability to analyze complex datasets, craft compelling narratives from data, and provide actionable business recommendations, I aim to contribute significantly to any organization seeking data-driven decision-making expertise.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1R1fwmORRjUdgGmcubdN8uXMAwGU0ZteH/edit?usp=drive_link&ouid=101366640990861334016&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
-
+With my ability to analyze complex datasets, craft compelling narratives from data, and provide actionable business recommendations, I aim to contribute significantly to any organization seeking data-driven decision-making expertise.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/17u7ZPdBwqijABQM-5ppL0ZEA_DVnh-rdBID-kuLQdn8/edit?usp=drive_link&ouid=101366640990861334016&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
