@@ -49,7 +49,7 @@ Conclusion:The Customer Analysis provides valuable insights into user behaviors,
 
 🔗Functional link:
 
-[HERE](https://public.tableau.com/shared/GNRB97MFN?:display_count=n&:origin=viz_share_link)
+[HERE](https://public.tableau.com/views/Charu_Gupta_Zomato_Customer_Analysis/DetailedCustomerAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
